@@ -19,7 +19,7 @@ const ProjectsCard = ({ title, des, src }) => {
               {title}
             </h3>
             <div className="flex gap-2">
-              
+            
             </div>
           </div>
           <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
